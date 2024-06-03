@@ -42,7 +42,7 @@ the following APIs runs the search service on our project:
 
 The implemented text processing steps are tow main steps:
 
-- **Preprocessor**:
+1. **Preprocessor**:
   
   1. **Lowerization**
 
@@ -52,7 +52,7 @@ The implemented text processing steps are tow main steps:
 
   3. **Remove Html and Links**
 
-- **Tokenizer**:
+2. **Tokenizer**:
 
   1. **Tokenizing**
 
