@@ -22,9 +22,9 @@ The purpose of each branch is as follows:
 
 Install required packages. 
 
-Run main.py file then you can access any service by you localhost:YOUR-PORT/SERVICE-ENDPOINT
+Run indexing.py file for the first time to set the database on your device.
 
-Run indexing Api for the first time to set the database on your device.
+Run main.py file then you can access any service by you localhost:YOUR-PORT/SERVICE-ENDPOINT
 
 ## Services
 
