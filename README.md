@@ -42,34 +42,34 @@ the following APIs runs the search service on our project:
 
 The implemented text processing steps are tow main steps:
 
-1. **Preprocessor**:
+- **Preprocessor**:
   
-  1. **Lowerization**
+1. **Lowerization**
 
 
-  2. **Expand Contractions**
+2. **Expand Contractions**
 
 
-  3. **Remove Html and Links**
+3. **Remove Html and Links**
 
-2. **Tokenizer**:
+- **Tokenizer**:
 
-  1. **Tokenizing**
-
-
-  2. **Cleaning**
+1. **Tokenizing**
 
 
-  3. **Filtration**
+2. **Cleaning**
 
 
-  4. **Normalize dates**
+3. **Filtration**
 
 
-  5. **Normalize countries**
+4. **Normalize dates**
 
 
-  6. **Lemmatization**
+5. **Normalize countries**
+
+
+6. **Lemmatization**
 
 
 the following API runs the text processing service:
